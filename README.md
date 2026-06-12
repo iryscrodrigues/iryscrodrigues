@@ -8,4 +8,4 @@ I am a dedicated programming student with a passion for creativity and hard work
 
 ### Tech stack 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" /> 
+<img src="https://devicons.io/devicons/icons/python.svg" width="100" /> <img src="https://devicons.io/devicons/icons/mysql.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" /> 
